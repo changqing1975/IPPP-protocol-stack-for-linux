@@ -1,0 +1,1 @@
+ip netns exec ns_r3 ip route del 192.168.1.0/24 dev encap1

@@ -1,0 +1,9 @@
+ 
+./netconfig.sh
+qemu...
+gdb vmlinux
+    target remote:1234
+    c
+mount
+qemu內网络配置
+外部网络配置

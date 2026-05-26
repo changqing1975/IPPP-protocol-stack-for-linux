@@ -1,0 +1,1 @@
+ippp netns exec un2 ippp nat add un2 1.1.1.1 0.0.0.0/0
